@@ -1,0 +1,4 @@
+requests
+pyyaml
+psycopg2-binary
+unittest
